@@ -1,6 +1,6 @@
 **Stock Portfolio Return Calculator and Visualization**
 
-This Python script calculates the total return of a stock portfolio (or individual stocks) for the year 2023 using data from Yahoo Finance. It also provides visualizations, including a pie chart of portfolio allocation and a bar chart showing the returns of individual stocks chosen by the user.
+Calculates the return of a stock portfolio (or individual stocks) for the year 2023 using data from Yahoo Finance. It also provides visualizations, including a pie chart of portfolio allocation and a bar chart showing the returns of individual stocks chosen by user.
 
 **Features**
 
