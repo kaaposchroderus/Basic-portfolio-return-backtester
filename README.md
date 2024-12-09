@@ -1,5 +1,21 @@
-This script calculates the total return of a stock portfolio (or single stock return) for 2023 using data from Yahoo Finance. It also visualizes the results with a pie chart of portfolio allocation and a bar chart showing returns of individual stock(s) chosen by user. 
-Features: Stock Input: Enter stock tickers and their weights. Data Fetching: Retrieves adjusted closing prices for 2023. Portfolio Calculation: Calculates total portfolio return. Visualization: Shows a pie chart for allocation and a bar chart for stock returns. 
-Requirements: yfinance pandas matplotlib 
-How to Use: Enter the number of stocks. Input tickers and weights. View the portfolio return and charts. 
-Installation: pip install yfinance pandas matplotlib
+**Stock Portfolio Return Calculator and Visualization**
+
+This Python script calculates the total return of a stock portfolio (or individual stocks) for the year 2023 using data from Yahoo Finance. It also provides visualizations, including a pie chart of portfolio allocation and a bar chart showing the returns of individual stocks chosen by the user.
+
+**Features**
+
+Stock Input: Enter the tickers and weights of the stocks in your portfolio.
+Data Fetching: Retrieves adjusted closing prices for the year 2023 from Yahoo Finance.
+Portfolio Calculation: Calculates the total return of your portfolio based on the stock tickers and weights provided.
+Visualization: Displays a pie chart for portfolio allocation and a bar chart for the returns of individual stocks.
+Requirements
+
+
+The following libraries are required to run the script:
+
+**yfinance**: To fetch stock data from Yahoo Finance.
+
+**pandas**: For data manipulation.
+
+**matplotlib**: For generating the visualizations.
+
